@@ -1,4 +1,4 @@
-<img width="976" height="680" alt="ภาพ" src="https://github.com/user-attachments/assets/48cdb16c-41d9-4dc9-a01d-00024978ca58" /># Chemical Information Display
+# Chemical Information Display
 
 แอป React Native พัฒนาใน **Expo Snack**  
 ใช้สำหรับแสดงข้อมูลสารเคมีในรูปแบบการ์ด และดูรายละเอียดเพิ่มเติม  
