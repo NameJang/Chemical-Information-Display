@@ -25,7 +25,7 @@
 
 ## Screenshots
 
-![Main Screen](./StorageLab/assets/App.png)
+![Main Screen](./StorageLab/assets/App.PNG)
 ![Detail Modal](./screenshots/detail-modal.png)
 
 ---
