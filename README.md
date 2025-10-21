@@ -26,7 +26,7 @@
 ## Screenshots
 
 ![Main Screen](https://media.discordapp.net/attachments/1295019478106509365/1430332700056616990/App.PNG?ex=68f964a1&is=68f81321&hm=4bc1151c58381f84dd7f8828a03c13ab455faaf13aa9b2d04dd088bec5b32026&=&format=webp&quality=lossless)
-![Detail Modal](./screenshots/detail-modal.png)
+![Detail Modal]([./screenshots/detail-modal.png](https://media.discordapp.net/attachments/952305663344795739/1430334869249982505/App.gif?ex=68f966a7&is=68f81527&hm=cbf224fe752102ab9a4edb7f3a5c9f448fec9dd631c1b7f7e6369084547abefc&=))
 
 ---
 
