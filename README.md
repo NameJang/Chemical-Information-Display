@@ -25,7 +25,7 @@
 
 ## Screenshots
 
-![Main Screen](./screenshots/main-screen.png)
+![Main Screen](./assets/App.png)
 ![Detail Modal](./screenshots/detail-modal.png)
 
 ---
