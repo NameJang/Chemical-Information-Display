@@ -1,10 +1,10 @@
 # Chemical Information Display
 
-แอป React Native พัฒนาใน Expo Snack  
+แอป React Native พัฒนาใน **Expo Snack**  
 ใช้สำหรับแสดงข้อมูลสารเคมีในรูปแบบการ์ด และดูรายละเอียดเพิ่มเติม  
-มีการเชื่อมต่อฐานข้อมูล Supabase เพื่อดึงและจัดเก็บข้อมูล
+เชื่อมต่อฐานข้อมูล **Supabase** เพื่อดึงและจัดเก็บข้อมูล
 
------
+---
 
 ## Tech Stack
 - React Native (Expo)
@@ -15,20 +15,27 @@
 ---
 
 ## Features
-- แสดงข้อมูลสารเคมีในรูปแบบการ์ด
-- แตะเพื่อดูรายละเอียดใน Modal
-- รองรับทุกขนาดหน้าจอ (Responsive)
-- ดึงข้อมูลจากฐานข้อมูล Supabase
+- แสดงข้อมูลสารเคมีในรูปแบบ **Card Layout**
+- แตะเพื่อดูรายละเอียดใน **Modal**
+- รองรับทุกขนาดหน้าจอ (**Responsive**)
+- ดึงข้อมูลจาก **Supabase**
 - แยก Component เป็นส่วน ๆ เพื่อให้อ่านง่าย
 
 ---
 
+## Screenshots
+
+![Main Screen](./screenshots/main-screen.png)
+![Detail Modal](./screenshots/detail-modal.png)
+
+---
+
 ## Usage
-เปิดโค้ดใน Snack:
+
+### เปิดโค้ดใน Snack (ง่ายสุด)
 [https://snack.expo.dev/@ohmjk/add-app-new](https://snack.expo.dev/@ohmjk/add-app-new)
 
-หรือ Clone โปรเจกต์มารันในเครื่อง:
-
+### รันในเครื่อง
 ```bash
 git clone https://github.com/<your-username>/<your-repo-name>.git
 cd Chemical-Information-Display
