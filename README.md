@@ -40,3 +40,8 @@ git clone https://github.com/<your-username>/<your-repo-name>.git
 cd Chemical-Information-Display
 npm install
 npm start
+
+### Project Status
+โปรเจกต์นี้ยังอยู่ในขั้น พัฒนา (Development Stage)
+บางฟีเจอร์อาจยังทำงานไม่สมบูรณ์ หรือมีบัคที่ต้องแก้ไขเพิ่มเติม
+ปัจจุบันระบบยัง ไม่พร้อมใช้งาน 100% และอยู่ระหว่างการปรับปรุงเพื่อให้เสถียรมากขึ้น
